@@ -1,3 +1,3 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://memora.id/wp-content/uploads/2023/07/michi1.jpeg" width="400" alt="Laravel Logo"></a></p>
 
-<h1 style="font-weight: bold;" alignt="center">Terimakasih :)</h1>
+<h1 style="font-weight: bold;text-align=center">Terimakasih :)</h1>
