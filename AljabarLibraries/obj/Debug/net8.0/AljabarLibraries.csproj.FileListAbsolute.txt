@@ -1,0 +1,11 @@
+D:\Kuliah\Kpl\tpmodul11_1302220018\AljabarLibraries\bin\Debug\net8.0\AljabarLibraries.deps.json
+D:\Kuliah\Kpl\tpmodul11_1302220018\AljabarLibraries\bin\Debug\net8.0\AljabarLibraries.dll
+D:\Kuliah\Kpl\tpmodul11_1302220018\AljabarLibraries\bin\Debug\net8.0\AljabarLibraries.pdb
+D:\Kuliah\Kpl\tpmodul11_1302220018\AljabarLibraries\obj\Debug\net8.0\AljabarLibraries.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuliah\Kpl\tpmodul11_1302220018\AljabarLibraries\obj\Debug\net8.0\AljabarLibraries.AssemblyInfoInputs.cache
+D:\Kuliah\Kpl\tpmodul11_1302220018\AljabarLibraries\obj\Debug\net8.0\AljabarLibraries.AssemblyInfo.cs
+D:\Kuliah\Kpl\tpmodul11_1302220018\AljabarLibraries\obj\Debug\net8.0\AljabarLibraries.csproj.CoreCompileInputs.cache
+D:\Kuliah\Kpl\tpmodul11_1302220018\AljabarLibraries\obj\Debug\net8.0\AljabarLibraries.dll
+D:\Kuliah\Kpl\tpmodul11_1302220018\AljabarLibraries\obj\Debug\net8.0\refint\AljabarLibraries.dll
+D:\Kuliah\Kpl\tpmodul11_1302220018\AljabarLibraries\obj\Debug\net8.0\AljabarLibraries.pdb
+D:\Kuliah\Kpl\tpmodul11_1302220018\AljabarLibraries\obj\Debug\net8.0\ref\AljabarLibraries.dll
